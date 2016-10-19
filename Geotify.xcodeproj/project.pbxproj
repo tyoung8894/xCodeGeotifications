@@ -14,6 +14,7 @@
 		D868C2831DB7EEB7006FCF49 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D868C2811DB7EEB7006FCF49 /* LaunchScreen.storyboard */; };
 		D868C28E1DB7EEB7006FCF49 /* GeotifyTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D868C28D1DB7EEB7006FCF49 /* GeotifyTests.swift */; };
 		D868C2991DB7EEB7006FCF49 /* GeotifyUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D868C2981DB7EEB7006FCF49 /* GeotifyUITests.swift */; };
+		D868C2A71DB7FA3F006FCF49 /* AddGeotificationTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D868C2A61DB7FA3F006FCF49 /* AddGeotificationTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		D868C2941DB7EEB7006FCF49 /* GeotifyUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GeotifyUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D868C2981DB7EEB7006FCF49 /* GeotifyUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeotifyUITests.swift; sourceTree = "<group>"; };
 		D868C29A1DB7EEB7006FCF49 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D868C2A61DB7FA3F006FCF49 /* AddGeotificationTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AddGeotificationTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				D868C27F1DB7EEB7006FCF49 /* Assets.xcassets */,
 				D868C2811DB7EEB7006FCF49 /* LaunchScreen.storyboard */,
 				D868C2841DB7EEB7006FCF49 /* Info.plist */,
+				D868C2A61DB7FA3F006FCF49 /* AddGeotificationTableViewController.swift */,
 			);
 			path = Geotify;
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 			files = (
 				D868C27B1DB7EEB7006FCF49 /* ViewController.swift in Sources */,
 				D868C2791DB7EEB7006FCF49 /* AppDelegate.swift in Sources */,
+				D868C2A71DB7FA3F006FCF49 /* AddGeotificationTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
